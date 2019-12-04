@@ -1,0 +1,19 @@
+.input_box[type=text] {
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    margin-right: 0px;
+    border: none;
+  }
+
+  .input-button {
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+  }
